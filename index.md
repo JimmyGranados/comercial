@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+##  La mejor opcion para la reserva de hoteles.
 
-You can use the [editor on GitHub](https://github.com/JimmyGranados/comercial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tu lo piensas y nosotros te presentamos las mejores opciones de hoteles a nivel mundial en las mejores ciudades para tus vacaciones. Desde Ecuador hasta China. No tenemos limites para tus opciones de viaje, ya sea por vacaciones, negocios o matrimonio.
 
 ### Markdown
 
