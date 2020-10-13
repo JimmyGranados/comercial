@@ -29,15 +29,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contáctenos!
 
 Necesitas informacion mas detallada o personalizada de nuestros servicios contactanos: 
-### Teléfono
-04-266784
-
-### Correo electrónico
-o envianos un email : info@comercial.com.ec
+Teléfono => 04-266784 o envianos un email : info@comercial.com.ec
 
 ### Ubicación.
 
-### Matriz: 
+    Matriz: 
     Guayaquil-Ecuador av. 9 de Octubre entre boyacá y chile edificio NOVA piso 12.
-### Sucursal: 
+    Sucursal: 
     New Jersey-USA 900 y broklyn edificio NEW TOWERS piso 50
