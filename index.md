@@ -9,7 +9,6 @@ Tu lo piensas y nosotros te presentamos las mejores opciones de hoteles a nivel 
 Somos una empresa que brinda servicios para hospedajes en los mejores hoteles a nivel mundial. Con más de 10 años en la industria hotelera tenemos la mejor experiencia para saber lo que tú necesitas para tus viajes.
 
 ```markdown
-Syntax highlighted code block
 
 ### Nuestros servicios
 # Hospedajes
