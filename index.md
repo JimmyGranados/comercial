@@ -2,29 +2,23 @@
 
 Tu lo piensas y nosotros te presentamos las mejores opciones de hoteles a nivel mundial en las mejores ciudades para tus vacaciones. Desde Ecuador hasta China. No tenemos limites para tus opciones de viaje, ya sea por vacaciones, negocios o matrimonio.
 
+### Empecemos  [Consulta de hoteles](https://jimmygranados.github.io/reservar/paises.html).
+
 ### ¿Quiénes somos?
 
 Somos una empresa que brinda servicios para hospedajes en los mejores hoteles a nivel mundial. Con más de 10 años en la industria hotelera tenemos la mejor experiencia para saber lo que tú necesitas para tus viajes.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Nuestros servicios
+# Hospedajes
+# Paquetes de viajes familiares
+# Paquetes de viajes corporativos
+# Paquetes de viajes personales
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-### Empecemos  [Consulta de hoteles](https://jimmygranados.github.io/reservar/paises.html).
 
 ### Contáctenos!
 
